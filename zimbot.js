@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮_Miss Qeen!!_ ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮_____________
+//▮WHATSAPP US : +94762511600
+//▮YOUTUBE CHANNELL: _ඒස්වා පුහ්!!_
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,8 +17,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DikaArdnt
+//┃THANKS FOR CHOOSING _Miss Qeen!!_
+//┃THANKS TO King & Qeen
 //┃BEHOLD THE NEW
 //┃
 //┃LET LOVE LEAD
@@ -6879,7 +6879,7 @@ case 'listmenu': case 'list': {
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -6922,7 +6922,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7664,7 +7664,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7771,7 +7771,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7819,7 +7819,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7876,7 +7876,7 @@ function _0x3217(_0x37715e,_0x2f6592){const _0xa94637=_0xa946();return _0x3217=f
                 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
                 ┃ 
                 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-                ┃https://tinyurl.com/2bghgjfx
+                ┃
                 ┃
                 ┃━━━━━━━━━━━━━━━━━━┃
                 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7921,7 +7921,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -7994,7 +7994,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8073,7 +8073,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃______ඒස්වා පුහ්!!______
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8142,7 +8142,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8219,7 +8219,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8325,7 +8325,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8374,7 +8374,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8419,7 +8419,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8467,7 +8467,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8518,7 +8518,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8571,7 +8571,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8638,7 +8638,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8698,7 +8698,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8743,7 +8743,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8821,7 +8821,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8863,7 +8863,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8909,7 +8909,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -8979,7 +8979,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9028,7 +9028,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9082,7 +9082,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
@@ -9121,7 +9121,7 @@ let hao = randomNomor(200)
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Africa/Harare').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://tinyurl.com/2bghgjfx
+┃
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
